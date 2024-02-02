@@ -1,0 +1,17 @@
+name: "Deploy"
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v3
+    - uses: cachix/install-nix-action@v22
+      with:
+        nix_path: nixpkgs=channel:nixos-23.11
+    - run: nix develop --command bash -c "cabal build"
+    - run: ./dist-newstyle/build/x86_64-linux/ghc-9.4.8/milling-0.1.0.0/x/milling/build/milling/milling build
+    - run: ls -l
