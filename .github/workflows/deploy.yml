@@ -8,7 +8,6 @@ jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-    - name: Build
     - uses: actions/checkout@v3
     - uses: cachix/install-nix-action@v22
       with:
@@ -16,7 +15,6 @@ jobs:
     - run: nix develop --command bash -c "cabal build"
     - run: eval "$(cabal list-bin milling) build"
     - run: ls -l
-    - name: Deploy
       uses: s0/git-publish-subdir-action@develop
       env:
         REPO: self
