@@ -13,7 +13,7 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-23.11
     - run: nix develop --command bash -c "cabal build"
-    - run: eval "$(cabal list-bin milling) build"
+    - run: nix develop --command bash -c "eval '$(cabal list-bin milling) build'"
     - run: ls -l
     - uses: s0/git-publish-subdir-action@develop
       env:
