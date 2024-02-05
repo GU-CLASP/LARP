@@ -4,17 +4,16 @@ title: Call for papers
 
 # Call for papers
 
-**Multimodality and Interaction in Language Learning (MILLing)** will
+*Multimodality and Interaction in Language Learning (MILLing)* will
 bring together researchers in linguistics and computational
-
 linguistics to discuss learning through linguistic interaction, from
 the perspectives of both human language acquisition and machine
 learning. We encourage contributions from theoretical linguistics and
 experimental linguistics, computational linguistics, machine learning,
-philosophy, and cognitive science. 
+philosophy, and cognitive science.
 
 The conference is organised by the Centre for Linguistic Theory and
-Studies in Probability (CLASP, https://gu-clasp.github.io/),
+Studies in Probability (CLASP, <https://gu-clasp.github.io/>),
 University of Gothenburg. The conference will be held between October
 11 and 12 in Gothenburg, Sweden.
 
@@ -59,9 +58,9 @@ progress, or they describe systems and/or projects. They must not
 exceed 4 pages excluding references. All types of papers will be
 published in the 2024 ACL Anthology as a CLASP Conference Proceedings.
 Papers should be electronically submitted via the softconf system at:
-https://softconf.com/n/MILLing2024/. Submissions should be PDF files
+<https://softconf.com/n/MILLing2024/>. Submissions should be PDF files
 and use the LaTeX or Word templates provided for ACL submissions
-(https://github.com/acl-org/acl-style-files). Submissions have to be
+(<https://github.com/acl-org/acl-style-files>). Submissions have to be
 anonymous. Please make sure that you select the right track when
 submitting your paper. Contact the organisers if you have problems
 using softconf.
@@ -89,7 +88,7 @@ camera ready version by Sep 20, 2024.
 About CLASP
 ----
 MILLing is organised by the Centre for Linguistic Theory and Studies
-in Probability (CLASP, https://gu-clasp.github.io/) at the Department
+in Probability (CLASP, <https://gu-clasp.github.io/>) at the Department
 of Philosophy, Linguistics and Theory of Science (FLoV), University of
 Gothenburg. CLASP focuses its research on the application of
 probabilistic and information theoretic methods to the analysis of
