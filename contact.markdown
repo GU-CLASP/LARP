@@ -6,7 +6,7 @@ title: Organisers
 
 **Program Chairs**: Amy Qiu, Bill Noble, David Pagmar, & Vladislav Maraev
 
-**Proceedings Chair:** Nikolai Ilinikyh
+**Proceedings Chair:** Nikolai Ilinykh
 
 # CLASP
 
