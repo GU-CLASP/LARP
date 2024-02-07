@@ -8,9 +8,9 @@ title: Call for papers
 bring together researchers in linguistics and computational
 linguistics to discuss learning through linguistic interaction, from
 the perspectives of both human language acquisition and machine
-learning. We encourage contributions from theoretical linguistics and
-experimental linguistics, computational linguistics, machine learning,
-philosophy, and cognitive science.
+learning. We encourage contributions from the fields of theoretical linguistics, 
+experimental linguistics, pragmatics, computational linguistics,
+artificial intelligence, and cognitive science.
 
 The conference is organised by the Centre for Linguistic Theory and
 Studies in Probability (CLASP, <https://gu-clasp.github.io/>),
@@ -25,7 +25,6 @@ Important dates
 - Camera ready: Sep 20, 2024, anywhere on Earth
 - Conference: Oct 11-12, 2024, University of Gothenburg, Sweden
 
-
 Topics of interest
 ----
 We hope to see innovative work that
@@ -34,14 +33,14 @@ to cultivate discussion that reaches across traditionally disparate
 disciplines. Papers are invited on topics in these and closely related
 areas, including (but not limited to) the following:
 
-- Language acquisition: formal, statistical, experimental, and corpus-based work
+- Language acquisition: formal, statistical, experimental, and machine learning-based work
 - Language learning through dialogue in humans and machines
 - Multi-modality and figurativeness in language learning and dialogue
 - Linguistic variation, adaptation, and audience design
 - Low-resource and ecologically plausible language modelling (e.g., BabyLM)
 - Cognitive architectures for language learning
 - Information state update in humans and machines
-- Second language acquisition
+- Cognitive aproaches to second language acquisition
 - Dialogue systems for language learning
 - Online, reinforcement and curriculum learning in NLP
 - Atypical development and language learning 
