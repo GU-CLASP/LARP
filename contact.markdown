@@ -2,15 +2,28 @@
 title: Organisers
 ---
 
+# Contact
+
+The program chairs can be contacted at the following address: <milling2024@softconf.com>
+
 # Organisers
 
-**Program Chairs**: Amy Qiu, Bill Noble, David Pagmar, & Vladislav Maraev
+**Program Chairs** _(alphabetical order)_: Amy Qiu, Bill Noble, David Pagmar, & Vladislav Maraev 
 
 **Proceedings Chair:** Nikolai Ilinykh
 
 # CLASP
 
-CLASP is funded by a 10 year grant from the Swedish Research Council (2015-2025). The funding from the Swedish Research Council and GU grant allows recruitment of prof. Shalom Lappin, a senior lecturer, a researcher/project coordinator, 12 PhD and 9 postdoctoral research positions. The funding also provides means for workshops, conferences and visits of guest researchers to Gothenburg. CLASP will bring together researchers in theoretical linguistics, computational linguistics, logic, AI, cognitive psychology, and robotics.
+MILLing is organised by the Centre for Linguistic Theory and Studies
+in Probability ([CLASP](https://gu-clasp.github.io/)) at the Department
+of Philosophy, Linguistics and Theory of Science (FLoV), University of
+Gothenburg. CLASP focuses its research on the application of
+probabilistic and information theoretic methods to the analysis of
+natural language. CLASP is concerned both with understanding the
+cognitive foundations of language and developing efficient language
+technology. We work at the interface of computational
+linguistics/natural language processing, theoretical linguistics, and
+cognitive science.
  
 # Site
 
