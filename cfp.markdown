@@ -25,7 +25,7 @@ Important dates
 - Submission deadline: May 31, 2024, anywhere on Earth
 - Notification of acceptance: Aug 30, 2024, anywhere on Earth
 - Camera ready: Sep 20, 2024, anywhere on Earth
-- Conference: Oct 11-12, 2024, University of Gothenburg, Sweden
+- Conference: Oct 14--15, 2024, University of Gothenburg, Sweden
 
 Topics of interest
 ----
