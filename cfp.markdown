@@ -17,7 +17,7 @@ artificial intelligence, and cognitive science.
 The conference is organised by the Centre for Linguistic Theory and
 Studies in Probability (CLASP, <https://gu-clasp.github.io/>),
 University of Gothenburg. The conference will be held between October
-11 and 12 in Gothenburg, Sweden.
+14 and 15 in Gothenburg, Sweden.
 
 Important dates
 ----
