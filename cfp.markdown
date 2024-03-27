@@ -21,7 +21,6 @@ University of Gothenburg. The conference will be held between October
 
 Important dates
 ----
-
 - Submission deadline: May 31, 2024, anywhere on Earth
 - Notification of acceptance: Aug 30, 2024, anywhere on Earth
 - Camera ready: Sep 20, 2024, anywhere on Earth
@@ -50,7 +49,6 @@ areas, including (but not limited to) the following:
 
 Submission Requirements
 ----
-
 MILLing will feature two types of submissions: long papers and short
 papers. Long papers must describe original research, and they must not
 exceed 8 pages excluding references (position papers are also accepted
@@ -68,7 +66,6 @@ using softconf.
 
 Concurrent Submissions
 ----
-
 Papers that have been or will be submitted to other conferences or
 publications must indicate this at submission time using a footnote on
 the title page of the submissions. Authors of papers accepted for
