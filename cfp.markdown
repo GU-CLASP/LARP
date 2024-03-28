@@ -4,7 +4,6 @@ title: Call for papers
 
 <!-- EMAILS: REMEMBER TO ADD CONFERENCE TITLE AND CFP URL -->
 
-# Call for papers
 
 *Multimodality and Interaction in Language Learning (MILLing)* will
 bring together researchers in linguistics and computational

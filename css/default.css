@@ -3,14 +3,14 @@ html {
 }
 
 body {
-  font-size: 1.7rem;
+    font-size: 1.7rem;
   color: #000;
   /* font-family: "Baskerville", "baskerville-urw", serif; */
-  font-family: "effra", sans-serif;
+  font-family: "foco", sans-serif;
 }
 
 header {
-  border-bottom: 0.2rem solid #000;
+  /* border-bottom: 0.1rem solid rgb(186,113,45); */
 }
 
 nav {
@@ -22,14 +22,26 @@ nav a {
   font-weight: bold;
   color: black;
   text-decoration: none;
-  text-transform: uppercase;
-  font-family: "baskerville-urw", serif;
+  font-family: "foco", serif;
+}
+
+nav a:hover {
+    text-decoration-line: underline;
+    text-decoration-thickness:  0.2rem;
+    text-decoration-color: rgb(242,114,18);
+}
+
+nav .current-link {
+    text-decoration-line: underline;
+    text-decoration-thickness:  0.2rem;
+    text-decoration-color: rgb(242,114,18);
+    text-underline-offset: 0.7rem;
 }
 
 footer {
   margin-top: 3rem;
-  padding: 1.2rem 0;
-  border-top: 0.2rem solid #000;
+  padding: 0.5rem 0;
+  border-top: 0.1rem dotted;
   font-size: 1.2rem;
   color: #555;
 }

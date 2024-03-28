@@ -2,11 +2,9 @@
 title: Organisers
 ---
 
-# Contact
 
 The program chairs can be contacted at the following address: <milling2024@softconf.com>
 
-# Organisers
 
 **Program Chairs** _(alphabetical order)_: Amy Qiu, Bill Noble, David Pagmar, & Vladislav Maraev 
 
