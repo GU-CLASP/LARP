@@ -11,10 +11,10 @@
     <body>
         <header>
             <div class="logo">
-                <a href="./"><img src="./images/milling_logo.png" height="30" /></a>
+                <a href="./index.html"><img src="./images/milling_logo.png" height="30" /></a>
             </div>
             <nav>
-                <a href="./">Home</a>
+                <a href="./index.html">Home</a>
                 <a href="./cfp.html">CFP</a>
                 <a href="./invited-speakers.html">Invited speakers</a>
                 <a href="./contact.html">Organisers</a>
@@ -23,7 +23,6 @@
 
         <main role="main">
             <!-- EMAILS: REMEMBER TO ADD CONFERENCE TITLE AND CFP URL -->
-<h1 id="call-for-papers">Call for papers</h1>
 <p><em>Multimodality and Interaction in Language Learning (MILLing)</em> will
 bring together researchers in linguistics and computational
 linguistics to discuss learning through linguistic interaction, from
@@ -109,4 +108,10 @@ cognitive science.</p>
             <a href="https://gu-clasp.github.io"><img src="./images/CLASP-orange.png" style="float: right; margin: 10px;" height="20" /></a>
         </footer>
     </body>
+        <script>
+          currentLinks = document.querySelectorAll('a[href="./cfp.html"]')
+          currentLinks.forEach(link => link.className = 'current-link');
+        </script>
+
+
 </html>

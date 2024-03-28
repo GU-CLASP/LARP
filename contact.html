@@ -11,10 +11,10 @@
     <body>
         <header>
             <div class="logo">
-                <a href="./"><img src="./images/milling_logo.png" height="30" /></a>
+                <a href="./index.html"><img src="./images/milling_logo.png" height="30" /></a>
             </div>
             <nav>
-                <a href="./">Home</a>
+                <a href="./index.html">Home</a>
                 <a href="./cfp.html">CFP</a>
                 <a href="./invited-speakers.html">Invited speakers</a>
                 <a href="./contact.html">Organisers</a>
@@ -22,9 +22,7 @@
         </header>
 
         <main role="main">
-            <h1 id="contact">Contact</h1>
-<p>The program chairs can be contacted at the following address: <a href="mailto:milling2024@softconf.com" class="email">milling2024@softconf.com</a></p>
-<h1 id="organisers">Organisers</h1>
+            <p>The program chairs can be contacted at the following address: <a href="mailto:milling2024@softconf.com" class="email">milling2024@softconf.com</a></p>
 <p><strong>Program Chairs</strong> <em>(alphabetical order)</em>: Amy Qiu, Bill Noble, David Pagmar, &amp; Vladislav Maraev</p>
 <p><strong>Proceedings Chair:</strong> Nikolai Ilinykh</p>
 <h1 id="clasp">CLASP</h1>
@@ -46,4 +44,10 @@ cognitive science.</p>
             <a href="https://gu-clasp.github.io"><img src="./images/CLASP-orange.png" style="float: right; margin: 10px;" height="20" /></a>
         </footer>
     </body>
+        <script>
+          currentLinks = document.querySelectorAll('a[href="./contact.html"]')
+          currentLinks.forEach(link => link.className = 'current-link');
+        </script>
+
+
 </html>
