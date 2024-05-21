@@ -40,7 +40,7 @@ areas, including (but not limited to) the following:
 - Low-resource and ecologically plausible language modelling (e.g., BabyLM)
 - Cognitive architectures for language learning
 - Information state update in humans and machines
-- Cognitive aproaches to second language acquisition
+- Cognitive approaches to second language acquisition
 - Dialogue systems for language learning
 - Online, reinforcement and curriculum learning in NLP
 - Atypical development and language learning 
@@ -62,6 +62,13 @@ and use the LaTeX or Word templates provided for ACL submissions
 anonymous. Please make sure that you select the right track when
 submitting your paper. Contact the organisers if you have problems
 using softconf.
+
+Non-archival track
+----
+At the time of submission, authors may indicate that their paper should be
+considered for the non-archival track. The format for non-archival submissions
+is the same for both long and short papers. Non-archival papers will also
+undergo peer review. 
 
 Concurrent Submissions
 ----
