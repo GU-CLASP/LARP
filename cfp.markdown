@@ -20,10 +20,20 @@ University of Gothenburg. The conference will be held between October
 
 Important dates
 ----
-- Submission deadline: May 31, 2024, anywhere on Earth
+- Submission deadline: June 10, 2024, anywhere on Earth
 - Notification of acceptance: Aug 30, 2024, anywhere on Earth
 - Camera ready: Sep 20, 2024, anywhere on Earth
 - Conference: Oct 14--15, 2024, University of Gothenburg, Sweden
+
+Invited speakers
+----
+- Catherine Pelachaud <http://chronos.isir.upmc.fr/~pelachaud/>, 
+  Director of Research at CNRS in the laboratory LTCI, TELECOM ParisTech
+- Charles Yang <https://www.ling.upenn.edu/~ycharles/> 
+  Professor of Linguistics and Computer Science at the University of Pennsylvania
+- Napoleon Katsos <https://sites.google.com/site/napoleonkatsos/home> 
+  Professor of Experimental Pragmatics at the Section of Theoretical and Applied 
+  Linguistics at the University of Cambridge and Fellow at Trinity College, Cambridge
 
 Topics of interest
 ----
