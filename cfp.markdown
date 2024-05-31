@@ -28,7 +28,8 @@ Important dates
 Invited speakers
 ----
 - Catherine Pelachaud <http://chronos.isir.upmc.fr/~pelachaud/>, 
-  Director of Research at CNRS in the laboratory LTCI, TELECOM ParisTech
+  Director of Research CNRS at INSR -- Institut des Systèmes Intelligents et de Robotique, 
+  Sorbonne Université
 - Charles Yang <https://www.ling.upenn.edu/~ycharles/> 
   Professor of Linguistics and Computer Science at the University of Pennsylvania
 - Napoleon Katsos <https://sites.google.com/site/napoleonkatsos/home> 
