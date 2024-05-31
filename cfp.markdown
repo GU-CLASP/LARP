@@ -20,7 +20,7 @@ University of Gothenburg. The conference will be held between October
 
 Important dates
 ----
-- Submission deadline: June 10, 2024, anywhere on Earth
+- Submission deadline: **June 10, 2024**, anywhere on Earth
 - Notification of acceptance: Aug 30, 2024, anywhere on Earth
 - Camera ready: Sep 20, 2024, anywhere on Earth
 - Conference: Oct 14--15, 2024, University of Gothenburg, Sweden
