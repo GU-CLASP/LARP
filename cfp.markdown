@@ -24,7 +24,8 @@ University of Gothenburg. The conference will be held between October
 Important dates
 ----
 - Submission deadline: **June 10, 2024**, anywhere on Earth
-- Notification of acceptance: Aug 30, 2024, anywhere on Earth
+- Notification of acceptance (papers): Aug 30, 2024, anywhere on Earth
+- Notification of acceptance (posters): Sep 16, 2024, anywhere on Earth
 - Poster abstract deadline: **Sep 6, 2024**, anywhere on Earth
 - Camera ready: **Sep 20, 2024**, anywhere on Earth
 - Registration deadline: **Sep 23, 2024**
@@ -85,6 +86,21 @@ At the time of submission, authors may indicate that their paper should be
 considered for the non-archival track. The format for non-archival submissions
 is the same for both long and short papers. Non-archival papers will also
 undergo peer review. 
+
+Poster abstracts
+---
+
+We invite researchers to submit poster proposals in the above areas of
+interest. Poster submissions are non-archival. This is a great opportunity to
+get feedback on work in progress or to present previously published work to a
+new audience. Posters should be submitted by September 13th, 2024, anywhere on
+earth. Notifications of acceptance will be sent out by September 16, 2024.
+Poster abstract submissions should be PDF files and use the LaTeX or Word
+templates provided for ACL submissions
+(https://github.com/acl-org/acl-style-files). Abstraccts should not exceed 2
+pages plus references and be submitted via the softconf system at:
+https://softconf.com/n/MILLing2024/. Accepted posters will be presented at the
+conference poster session.
 
 Concurrent Submissions
 ----
