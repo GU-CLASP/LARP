@@ -4,6 +4,9 @@ title: Call for papers
 
 <!-- EMAILS: REMEMBER TO ADD CONFERENCE TITLE AND CFP URL -->
 
+**NEW!!** Poster abstract deadline: ~~Sep 6~~ **Sep 13** ([submission site](https://softconf.com/n/MILLing2024))
+
+----------
 
 *Multimodality and Interaction in Language Learning (MILLing)* will
 bring together researchers in linguistics and computational
@@ -22,7 +25,9 @@ Important dates
 ----
 - Submission deadline: **June 10, 2024**, anywhere on Earth
 - Notification of acceptance: Aug 30, 2024, anywhere on Earth
-- Camera ready: Sep 20, 2024, anywhere on Earth
+- Poster abstract deadline: **Sep 6, 2024**, anywhere on Earth
+- Camera ready: **Sep 20, 2024**, anywhere on Earth
+- Registration deadline: **Sep 23, 2024**
 - Conference: Oct 14--15, 2024, University of Gothenburg, Sweden
 
 Invited speakers
