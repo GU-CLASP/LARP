@@ -6,6 +6,26 @@ title: Invited speakers
 ### [Catherine Pelachaud](http://chronos.isir.upmc.fr/~pelachaud/)
 _Director of Research CNRS at ISIR -- Institut des Systèmes Intelligents et de Robotique, Sorbonne Université_
 
+<details>
+<summary>**Multi-forms Adaptation for Socially Interactive Agents**</summary>
+
+Interacting with others enhances learning. Getting feedback on
+results, being encouraged and motivated… all help the learning
+process. During interaction, participants adapt to each other to show
+affiliation, group belongings, or to support social bonding.
+Adaptation can take place at different levels, through verbal
+alignment, imitation, and conversational strategies. Social resonance
+can also serve as a marker of adaptation. Socially Interactive Agents
+SIAs are virtual agents with a human-like appearance, capable of
+communicating verbally and nonverbally with their human
+interlocutors. In this talk, I will present our latest works aimed at
+endowing an SIA with various adaptive capabilities when interacting
+with its partners. The adaptation mechanisms are learned from
+human-human interaction data and evaluated by experimental studies
+involving human-agent interaction.
+
+</details>
+
 
 ### [Charles Yang](https://www.ling.upenn.edu/~ycharles/)
 _Professor of Linguistics and Computer Science at the University of Pennsylvania_
