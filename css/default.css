@@ -1,49 +1,49 @@
 html {
-  font-size: 62.5%;
+    font-size: 62.5%;
 }
 
 body {
     font-size: 1.7rem;
-  color: #000;
-  /* font-family: "Baskerville", "baskerville-urw", serif; */
-  font-family: "foco", sans-serif;
+    color: #000;
+    /* font-family: "Baskerville", "baskerville-urw", serif; */
+    font-family: "foco", sans-serif;
 }
 
 header {
-  /* border-bottom: 0.1rem solid rgb(186,113,45); */
+    /* border-bottom: 0.1rem solid rgb(186,113,45); */
 }
 
 nav {
-  text-align: right;
+    text-align: right;
 }
 
 nav a {
-  font-size: 1.7rem;
-  font-weight: bold;
-  color: black;
-  text-decoration: none;
-  font-family: "foco", serif;
+    font-size: 1.7rem;
+    font-weight: bold;
+    color: black;
+    text-decoration: none;
+    font-family: "foco", serif;
 }
 
 nav a:hover {
     text-decoration-line: underline;
-    text-decoration-thickness:  0.2rem;
-    text-decoration-color: rgb(242,114,18);
+    text-decoration-thickness: 0.2rem;
+    text-decoration-color: rgb(242, 114, 18);
 }
 
 nav .current-link {
     text-decoration-line: underline;
-    text-decoration-thickness:  0.2rem;
-    text-decoration-color: rgb(242,114,18);
+    text-decoration-thickness: 0.2rem;
+    text-decoration-color: rgb(242, 114, 18);
     text-underline-offset: 0.7rem;
 }
 
 footer {
-  margin-top: 3rem;
-  padding: 0.5rem 0;
-  border-top: 0.1rem dotted;
-  font-size: 1.2rem;
-  color: #555;
+    margin-top: 3rem;
+    padding: 0.5rem 0;
+    border-top: 0.1rem dotted;
+    font-size: 1.2rem;
+    color: #555;
 }
 
 h1 {
@@ -53,106 +53,176 @@ h1 {
 
 h2 {
     font-size: 2.2rem;
-      font-family: "baskerville-urw", serif;
+    font-family: "baskerville-urw", serif;
+    margin-bottom: 0.5rem;
 }
 
 article .header {
-  font-size: 1.4rem;
-  font-style: italic;
-  color: #555;
+    font-size: 1.4rem;
+    font-style: italic;
+    color: #555;
 }
 
 .logo a {
-  font-weight: bold;
-  color: #000;
-  text-decoration: none;
+    font-weight: bold;
+    color: #000;
+    text-decoration: none;
+}
+
+details {
+    border: 1px solid #ccc;
+    border-radius: 2px;
+    padding: 0 0.5rem;
+}
+
+details[open] {
+    background-color: rgba(242, 114, 18, 0.05);
+}
+
+details[open] > summary {
+    /* font-weight: bold; */
+    list-style-type: "–";
+    /* font-style: italic; */
+}
+
+details > summary {
+    cursor: pointer;
+    /* text-decoration-line: underline; */
+    /* text-decoration-style: dotted; */
+    /* text-decoration-thickness:  0.2rem; */
+    /* text-decoration-color: rgb(242,114,18); */
+    list-style-type: "+";
+    font-style: italic;
+}
+
+details > ul {
+    padding-left: 0;
+    margin: 1rem 0;
+    list-style-type: "";
+    list-style-position: inside;
+}
+details > ul > li {
+    margin-bottom: 0.5rem;
+    margin-left: 0.5rem;
+    text-indent: 0rem;
+    /* font-weight: bold; */
+}
+
+span.fika {
+    font-weight: normal;
+}
+span.authors {
+    font-weight: normal;
+    font-style: italic;
+}
+
+span.authors::after {
+    content: ": ";
+}
+span.fika::before {
+    content: "☕ ";
+}
+
+td.time {
+    padding-right: 1rem;
+    width: 10%;
+}
+td {
+    padding: 0.2rem 0.2rem;
+    vertical-align: top;
+}
+
+table {
+    table-layout: fixed;
+    border-collapse: collapse;
+    width: 100%;
 }
 
 @media (max-width: 319px) {
-  body {
-    width: 90%;
-    margin: 0;
-    padding: 0 5%;
-  }
-  header {
-    margin: 4.2rem 0;
-  }
-  nav {
-    margin: 0 auto 3rem;
-    text-align: center;
-  }
-  footer {
-    text-align: center;
-  }
-  .logo {
-    text-align: center;
-    margin: 1rem auto 3rem;
-  }
-  .logo a {
-    font-size: 2.4rem;
-  }
-  nav a {
-    display: block;
-    line-height: 1.6;
-  }
+    body {
+        width: 90%;
+        margin: 0;
+        padding: 0 5%;
+    }
+    header {
+        margin: 4.2rem 0;
+    }
+    nav {
+        margin: 0 auto 3rem;
+        text-align: center;
+    }
+    footer {
+        text-align: center;
+    }
+    .logo {
+        text-align: center;
+        margin: 1rem auto 3rem;
+    }
+    .logo a {
+        font-size: 2.4rem;
+    }
+    nav a {
+        display: block;
+        line-height: 1.6;
+    }
 }
 
 @media (min-width: 320px) {
-  body {
-    width: 90%;
-    margin: 0;
-    padding: 0 5%;
-  }
-  header {
-    margin: 4.2rem 0;
-  }
-  nav {
-    margin: 0 auto 3rem;
-    text-align: center;
-  }
-  footer {
-    text-align: center;
-  }
-  .logo {
-    text-align: center;
-    margin: 1rem auto 3rem;
-  }
-  .logo a {
-    font-size: 2.4rem;
-  }
-  nav a {
-    display: inline;
-    margin: 0 0.6rem;
-  }
+    body {
+        width: 90%;
+        margin: 0;
+        padding: 0 5%;
+    }
+    header {
+        margin: 4.2rem 0;
+    }
+    nav {
+        margin: 0 auto 3rem;
+        text-align: center;
+    }
+    footer {
+        text-align: center;
+    }
+    .logo {
+        text-align: center;
+        margin: 1rem auto 3rem;
+    }
+    .logo a {
+        font-size: 2.4rem;
+    }
+    nav a {
+        display: inline;
+        margin: 0 0.6rem;
+    }
 }
 
 @media (min-width: 640px) {
-  body {
-    width: 60rem;
-    margin: 0 auto;
-    padding: 0;
-  }
-  header {
-    margin: 0 0 3rem;
-    padding: 1.2rem 0;
-  }
-  nav {
-    margin: 0;
-    text-align: right;
-  }
-  nav a {
-    margin: 0 0 0 1.2rem;
-    display: inline;
-  }
-  footer {
-    text-align: right;
-  }
-  .logo {
-    margin: 0;
-    text-align: left;
-  }
-  .logo a {
-    float: left;
-    font-size: 1.8rem;
-  }
+    body {
+        width: 60rem;
+        margin: 0 auto;
+        padding: 0;
+    }
+    header {
+        margin: 0 0 3rem;
+        padding: 1.2rem 0;
+    }
+    nav {
+        margin: 0;
+        text-align: right;
+    }
+    nav a {
+        margin: 0 0 0 1.2rem;
+        display: inline;
+    }
+    footer {
+        text-align: right;
+    }
+    .logo {
+        margin: 0;
+        text-align: left;
+    }
+    .logo a {
+        float: left;
+        font-size: 1.8rem;
+    }
 }
