@@ -28,7 +28,7 @@ involving human-agent interaction.
 
 
 ### [Charles Yang](https://www.ling.upenn.edu/~ycharles/)
-_Professor of Linguistics and Computer Science at the University of Pennsylvania_
+Professor of Linguistics and Computer Science at the University of Pennsylvania
 
 <details>
 <summary>**Why language learning is not probabilistic**</summary>
@@ -41,10 +41,9 @@ The alternative is a theory of learning that does not even try to optimize but o
 </details>
 
 ### [Napoleon Katsos](https://sites.google.com/site/napoleonkatsos/home)
-_Professor of Experimental Pragmatics at the Section of Theoretical and Applied Linguistics at the University of Cambridge and Fellow at Trinity College, Cambridge_
+Professor of Experimental Pragmatics at the Section of Theoretical and Applied Linguistics at the University of Cambridge and Fellow at Trinity College, Cambridge
 
 <details>
 <summary>**“Deficit”, “difficulty”, “difference”: perspectives into autistic people's pragmatic skills and their implications for research methodology**</summary>
-
-It is widely reported that autistic people face pervasive challenges with producing and understanding pragmatics, i.e. context-dependent aspects of language. These are often attributed to challenges with mentalising, i.e. the ability to attribute the correct beliefs and intentions to other people. In this talk I will select influential papers from the past three decades of research in autism and language, each of which reveal a radically different perspective on the architecture of the linguistic system and on what it means to face challenges with linguistic competence (in our case, pragmatics). I will conclude that the recent perspective of neurodiversity implies a radical re-think of how we define pragmatics and how we assess the acquisition and processing of pragmatic competence.
+    <p>It is widely reported that autistic people face pervasive challenges with producing and understanding pragmatics, i.e. context-dependent aspects of language. These are often attributed to challenges with mentalising, i.e. the ability to attribute the correct beliefs and intentions to other people. In this talk I will select influential papers from the past three decades of research in autism and language, each of which reveal a radically different perspective on the architecture of the linguistic system and on what it means to face challenges with linguistic competence (in our case, pragmatics). I will conclude that the recent perspective of neurodiversity implies a radical re-think of how we define pragmatics and how we assess the acquisition and processing of pragmatic competence.</p>
 </details>
