@@ -91,7 +91,13 @@ title: Program
   </tr>
   <tr>
     <td class="time">17:30</td>
-    <td>Boat Trip to Reveljen (from Stenpieren)</td>
+    <td>
+      Boat Trip to Reveljen (from
+      <a
+        href="https://maps.apple.com/?auid=15493928370620691955&address=G%C3%B6teborg,%20Sweden&ll=57.7057857,11.9576227"
+        >Stenpiren</a
+      >)
+    </td>
   </tr>
   <tr>
     <td class="time">19:00</td>
