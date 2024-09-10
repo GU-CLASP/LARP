@@ -39,7 +39,7 @@ nav .current-link {
     text-decoration-line: underline;
     text-decoration-thickness: 0.2rem;
     text-decoration-color: rgb(242, 114, 18);
-    text-underline-offset: 0.7rem;
+    text-underline-offset: 0.42rem;
 }
 
 footer {
@@ -133,7 +133,7 @@ span.fika::before {
 
 td.time {
     padding-right: 1rem;
-    width: 10%;
+    width: 4rem;
 }
 td {
     padding: 0.2rem 0.2rem;
