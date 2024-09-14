@@ -50,3 +50,27 @@ Professor of Experimental Pragmatics at the Section of Theoretical and Applied L
 It is widely reported that autistic people face pervasive challenges with producing and understanding pragmatics, i.e. context-dependent aspects of language. These are often attributed to challenges with mentalising, i.e. the ability to attribute the correct beliefs and intentions to other people. In this talk I will select influential papers from the past three decades of research in autism and language, each of which reveal a radically different perspective on the architecture of the linguistic system and on what it means to face challenges with linguistic competence (in our case, pragmatics). I will conclude that the recent perspective of neurodiversity implies a radical re-think of how we define pragmatics and how we assess the acquisition and processing of pragmatic competence.
 
 </details>
+
+
+### [Robin Cooper](https://sites.google.com/view/robincooper/home)
+Senior Researcher at CLASP and Professor emeritus of Computational Linguistics, Department of Philosophy, Linguistics and Theory of Science, University of Gothenburg. Acting Head of CLASP. 
+
+<details><summary>Types in a Theory of Interactive Learning</summary>
+
+In this talk I will present some CLASP research on using types in a
+theory of interactive learning.  In the first part of the talk I will
+introduce the notion of type we have been using and how it relates to
+a general theory of action, including linguistic acts.  In the second
+part of the talk I will present some work I have been doing with
+Staffan Larsson and Jonathan Ginzburg on how such a theory relates to
+communicative acts by prelinguistic children and how such
+communicative acts serve as a basis for the development of linguistic
+acts by children.  In the third part of the talk, I will present some
+preliminary work with Staffan, Jonathan and Andy Lücking on how the
+kind of types we are using might relate to the approach to neural
+modelling that Chris Eliasmith and colleagues have been developing.
+While this work is still in the very early stages, the hope is that
+ultimately we can propose an explanatory account of interactive
+learning which is grounded in biologically plausible neural activity.
+
+</details>
