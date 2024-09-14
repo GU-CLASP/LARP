@@ -97,7 +97,7 @@ new audience. Posters should be submitted by September 13th, 2024, anywhere on
 earth. Notifications of acceptance will be sent out by September 16, 2024.
 Poster abstract submissions should be PDF files and use the LaTeX or Word
 templates provided for ACL submissions
-(<https://github.com/acl-org/acl-style-files>). Abstraccts should not exceed 2
+(<https://github.com/acl-org/acl-style-files>). Abstracts should not exceed 2
 pages plus references and be submitted via the softconf system at:
 <https://softconf.com/n/MILLing2024/>. Accepted posters will be presented at the
 conference poster session.
