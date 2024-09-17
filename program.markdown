@@ -31,9 +31,10 @@ title: Program
           </li>
           <li>
             <span class="authors"
-              >Julia Edeleva, Martin Neef, Jiaming Liu and Martin Scheidt</span
-            >L2 Interaction in Heterogeneous Learner Groups during Content and
-            Language Integrated Learning: The Experience of [...] and beyond
+              >Jonathan David Thomas, Andrea Silvi, Emil Carlsson, Moa Johansson
+              and Devdatt Dubhashi</span
+            >Learning Efficient Recursive Numeral Systems via Reinforcement
+            Learning
           </li>
           <li><span class="fika">Fika</span></li>
           <li>
@@ -134,10 +135,9 @@ title: Program
           </li>
           <li>
             <span class="authors"
-              >Jonathan David Thomas, Andrea Silvi, Emil Carlsson, Moa Johansson
-              and Devdatt Dubhashi</span
-            >Learning Efficient Recursive Numeral Systems via Reinforcement
-            Learning
+              >Julia Edeleva, Martin Neef, Jiaming Liu and Martin Scheidt</span
+            >L2 Interaction in Heterogeneous Learner Groups during Content and
+            Language Integrated Learning: The Experience of Rail.lexis and beyond
           </li>
         </ul>
       </details>
