@@ -53,7 +53,7 @@ title: Program
     <td>Keynote 2: Catherine Pelachaud</td>
   </tr>
   <tr>
-    <td>15:45</td>  
+    <td>15:45</td>
     <td>Panel discussion</td>
   </tr>
   <tr>
@@ -100,6 +100,15 @@ title: Program
         <li>VerbCLIP: Improving Verb Understanding in Vision-Language Models with Compositional Structures</li>
         <li>The effect of addressee presence on L2 gesture production: Do L2 learners gesture for themselves or the communicative partner?</li>
         <li>Towards Automated Game-Based Early Screening for Language Disorder</li>
+  <li>The Acquisition of Infinitival Clauses and The Developmental Advantage of Restructuring Verbs: A Growing Trees Perspective</li>
+  <li>Parental assessed productive vocabulary predicts later formal language, not later language use</li>
+  <li>Joint attention and play - a data-driven summary of longitudinal, multimodal, child-parent interactions</li>
+  <li>Semantic coordination in conversational explanations of predictive models: Preliminary findings</li>
+  <li>To Your Left: A Dataset and a Task of Spatial Perspective Coordination</li>
+  <li>The Processing of Expletive Negation: A Developmental Study</li>
+
+  <li>It is difficult, but not impossible: Measuring Scalar Activation in Language Models</li>
+  <li>"Ice cream is super yummy" How children and ChatGPT respond to why and how questions</li>
       </ul>
     </details></td>
   </tr>
