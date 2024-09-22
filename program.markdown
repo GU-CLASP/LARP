@@ -171,7 +171,46 @@ title: Program
               Nicole Agrela, Alexandra Marquis and Hanan Aldarmaki</span
             >Towards Automated Game-Based Early Screening for Language Disorder
           </li>
-          <li><i>(other posters will be announced Sep 17)</i></li>
+          <li>
+            <span class="authors"
+              >Tommaso Sgrizzi</span
+            >The Acquisition of Infinitival Clauses and The Developmental Advantage of Restructuring Verbs: A Growing Trees Perspective
+          </li>
+          <li>
+            <span class="authors"
+              >David Pagmar, Tove Gerholm, Thomas Hörberg and Östen Dahl</span
+            >Parental assessed productive vocabulary predicts later formal language, not later language use
+          </li>
+          <li>
+            <span class="authors"
+              >Petter Kallioinen and Tove Gerholm</span
+            >Joint attention and play - a data-driven summary of longitudinal, multimodal, child-parent interactions
+          </li>
+          <li>
+            <span class="authors"
+              >Alexander Berman</span
+            >Semantic coordination in conversational explanations of predictive models: Preliminary findings
+          </li>
+          <li>
+            <span class="authors"
+              >Mattias Appelgren and Simon Dobnik</span
+            >To Your Left: A Dataset and a Task of Spatial Perspective Coordination
+          </li>
+          <li>
+            <span class="authors"
+              >Anna Teresa Porrini, Veronica D'Alesio and Matteo Paolo Greco</span
+            >The Processing of Expletive Negation: A Developmental Study
+          </li>
+          <li>
+            <span class="authors"
+              >David Arps and Yulia Zinova</span
+            >It is difficult, but not impossible: Measuring Scalar Activation in Language Models
+          </li>
+          <li>
+            <span class="authors"
+              >Christine Howes, Erik Lagerstedt, David Pagmar, Ellen Breitholtz and Claire Prendergast</span
+            >“Ice cream is super yummy” How children and ChatGPT respond to why and how questions 
+          </li>
         </ul>
       </details>
     </td>
