@@ -28,7 +28,7 @@ Important dates
 - Notification of acceptance (posters): Sep 16, 2024, anywhere on Earth
 - Poster abstract deadline: ~~Sep 6~~ **Sep 13, 2024**, anywhere on Earth
 - Camera ready: **Sep 20, 2024**, anywhere on Earth
-- Registration deadline: **Sep 23, 2024**
+- Registration deadline: **Sep 29, 2024**
 - Conference: Oct 14--15, 2024, University of Gothenburg, Sweden
 
 Invited speakers
