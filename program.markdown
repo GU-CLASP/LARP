@@ -6,16 +6,20 @@ title: Program
 
 <table>
   <tr>
-    <td class="time">09:00</td>
+    <td class="time">08:30</td>
     <td>Registration & coffee</td>
   </tr>
   <tr>
-    <td class="time">09:30</td>
+    <td class="time">09:15</td>
     <td>Welcome and introductory remarks</td>
   </tr>
   <tr class="work">
-    <td class="time">10:00</td>
+    <td class="time">09:30</td>
     <td>Keynote 1: Napoleon Katsos</td>
+  </tr>
+  <tr class="work">
+    <td class="time">10:30</td>
+    <td><span class="fika">Fika (Swedish: “a coffee and a treat”)</span></td>
   </tr>
   <tr class="work">
     <td class="time">11:00</td>
@@ -36,7 +40,6 @@ title: Program
             >Learning Efficient Recursive Numeral Systems via Reinforcement
             Learning
           </li>
-          <li><span class="fika">Fika</span></li>
           <li>
             <span class="authors"
               >Goranka Blagus Bartolec, Gorana Duplančić Rogošić and Antonia
