@@ -15,7 +15,7 @@ title: Program
   </tr>
   <tr class="work">
     <td class="time">09:30</td>
-    <td>Keynote 1: Napoleon Katsos</td>
+    <td>Keynote 1: Napoleon Katsos (session chair: David Pagmar)</td>
   </tr>
   <tr class="work">
     <td class="time">10:30</td>
@@ -25,7 +25,7 @@ title: Program
     <td class="time">11:00</td>
     <td>
       <details>
-        <summary>Oral session 1</summary>
+        <summary>Oral session 1 (session chair: TBA)</summary>
         <ul>
           <li>
             11:00 <span class="authors"
@@ -66,7 +66,7 @@ title: Program
     <td class="time">13:30</td>
     <td>
       <details>
-        <summary>Oral session 2</summary>
+        <summary>Oral session 2 (session chair: Amy Han Qiu)</summary>
         <ul>
           <li>
            13:30 <span class="authors">Saba Nazir and Mehrnoosh Sadrzadeh</span>How
@@ -93,10 +93,10 @@ title: Program
   </tr>
   <tr class="work">
     <td class="time">15:10</td>
-    <td>Keynote 2: Catherine Pelachaud</td>
+    <td>Keynote 2: Catherine Pelachaud (session chair: Vladislav Maraev)</td>
   </tr>
   <tr class="work">
-    <td class="time">16:10–16:30</td>
+    <td class="time">16:10</td>
     <td>Free discussion</td>
   </tr>
   <tr>
@@ -120,7 +120,7 @@ title: Program
 <table>
   <tr>
     <td class="time">10:00</td>
-    <td>Keynote 3: Charles Yang</td>
+    <td>Keynote 3: Charles Yang (session chair: Bill Noble)</td>
   </tr>
   <tr>
     <td class="time">11:00</td>
@@ -130,7 +130,7 @@ title: Program
     <td class="time">11:20</td>
     <td>
       <details>
-        <summary>Oral session 3</summary>
+        <summary>Oral session 3 (session chair: TBA)</summary>
         <ul>
           <li>
             <span class="authors">Ekaterina Voloshina and Oleg Serikov</span
