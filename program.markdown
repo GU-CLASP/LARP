@@ -7,7 +7,7 @@ title: Program
 <table>
   <tr>
     <td class="time">08:30</td>
-    <td>Registration & coffee</td>
+    <td>Registration</td>
   </tr>
   <tr>
     <td class="time">09:15</td>
@@ -28,20 +28,20 @@ title: Program
         <summary>Oral session 1</summary>
         <ul>
           <li>
-            <span class="authors"
+            11:00 <span class="authors"
               >Staffan Larsson, Jenny Myrendal and Bill Noble</span
             >Not Just Semantics: Word Meaning Negotiation in Social Media and
             Spoken Interaction
           </li>
           <li>
-            <span class="authors"
+            11:20 <span class="authors"
               >Jonathan David Thomas, Andrea Silvi, Emil Carlsson, Moa Johansson
               and Devdatt Dubhashi</span
             >Learning Efficient Recursive Numeral Systems via Reinforcement
             Learning
           </li>
           <li>
-            <span class="authors"
+           11:50 <span class="authors"
               >Goranka Blagus Bartolec, Gorana Duplančić Rogošić and Antonia
               Ordulj</span
             >
@@ -49,7 +49,7 @@ title: Program
             Language
           </li>
           <li>
-            <span class="authors">Alex Tilson and Frank Foerster</span>Toward
+           12:10 <span class="authors">Alex Tilson and Frank Foerster</span>Toward
             Real Time Word Based Prosody Recognition
           </li>
         </ul>
@@ -69,29 +69,35 @@ title: Program
         <summary>Oral session 2</summary>
         <ul>
           <li>
-            <span class="authors">Saba Nazir and Mehrnoosh Sadrzadeh</span>How
+           13:30 <span class="authors">Saba Nazir and Mehrnoosh Sadrzadeh</span>How
             Does an Adjective Sound Like? Exploring Audio Phrase Composition
             with Textual Embeddings
           </li>
           <li>
-            <span class="authors">Loulou Kosmala</span>A Learning through
+           13:50 <span class="authors">Loulou Kosmala</span>A Learning through
             gesture: embodied repetitions in tandem interactions
+          </li>
+          <li>
+           14:20 <span class="authors"
+              >Hamdan Hamid Al-Ali, Elsa Soares, Goncalo Leal, Rita Valente,
+              Nicole Agrela, Alexandra Marquis and Hanan Aldarmaki</span
+            >Towards Automated Game-Based Early Screening for Language Disorder
           </li>
         </ul>
       </details>
     </td>
   </tr>
   <tr>
-    <td class="time">14:20</td>
+    <td class="time">14:40</td>
     <td><span class="fika">Fika</span></td>
   </tr>
   <tr class="work">
-    <td class="time">14:45</td>
+    <td class="time">15:10</td>
     <td>Keynote 2: Catherine Pelachaud</td>
   </tr>
   <tr class="work">
-    <td class="time">15:45</td>
-    <td>Panel discussion</td>
+    <td class="time">16:10–16:30</td>
+    <td>Free discussion</td>
   </tr>
   <tr>
     <td class="time">17:30</td>
@@ -154,7 +160,7 @@ title: Program
     <td class="time">13:45</td>
     <td>
       <details>
-        <summary>Poster session (with <span class="fika">Fika</span>)</summary>
+        <summary>Poster session (with <span class="fika">Fika</span>) [poster format: A0 portrait]</summary>
         <ul>
           <li>
             <span class="authors"
@@ -167,12 +173,6 @@ title: Program
             <span class="authors">Himmet Sarıtaş and Seyda Ozcaliskan</span>The
             effect of addressee presence on L2 gesture production: Do L2
             learners gesture for themselves or the communicative partner?
-          </li>
-          <li>
-            <span class="authors"
-              >Hamdan Hamid Al-Ali, Elsa Soares, Goncalo Leal, Rita Valente,
-              Nicole Agrela, Alexandra Marquis and Hanan Aldarmaki</span
-            >Towards Automated Game-Based Early Screening for Language Disorder
           </li>
           <li>
             <span class="authors"
