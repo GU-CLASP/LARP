@@ -25,7 +25,7 @@ title: Program
     <td class="time">11:00</td>
     <td>
       <details>
-        <summary>Oral session 1 (session chair: TBA)</summary>
+        <summary>Oral session 1 (session chair: Mattias Appelgren)</summary>
         <ul>
           <li>
             11:00 <span class="authors"
@@ -130,7 +130,7 @@ title: Program
     <td class="time">11:20</td>
     <td>
       <details>
-        <summary>Oral session 3 (session chair: TBA)</summary>
+        <summary>Oral session 3 (session chair: Erik Lagerstedt)</summary>
         <ul>
           <li>
             <span class="authors">Ekaterina Voloshina and Oleg Serikov</span
