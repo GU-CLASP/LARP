@@ -69,9 +69,9 @@ title: Program
         <summary>Oral session 2 (session chair: Amy Han Qiu)</summary>
         <ul>
           <li>
-           13:30 <span class="authors">Saba Nazir and Mehrnoosh Sadrzadeh</span>How
+           13:30 <span class="authors">Saba Nazir and Mehrnoosh Sadrzadeh</span>How 
             Does an Adjective Sound Like? Exploring Audio Phrase Composition
-            with Textual Embeddings
+            with Textual Embeddings _(presented online)_
           </li>
           <li>
            13:50 <span class="authors">Loulou Kosmala</span>A Learning through
@@ -83,21 +83,24 @@ title: Program
               Nicole Agrela, Alexandra Marquis and Hanan Aldarmaki</span
             >Towards Automated Game-Based Early Screening for Language Disorder
           </li>
+          <li>
+            14:40 <span class="authors"
+              >Hadi Wazni, Kin Ian Lo and Mehrnoosh Sadrzadeh</span
+            >
+            VerbCLIP: Improving Verb Understanding in Vision-Language Models
+            with Compositional Structures _(presented online)_
+          </li>
         </ul>
       </details>
     </td>
   </tr>
   <tr>
-    <td class="time">14:40</td>
+    <td class="time">15:00</td>
     <td><span class="fika">Fika</span></td>
   </tr>
   <tr class="work">
-    <td class="time">15:10</td>
+    <td class="time">15:30</td>
     <td>Keynote 2: Catherine Pelachaud (session chair: Vladislav Maraev)</td>
-  </tr>
-  <tr class="work">
-    <td class="time">16:10</td>
-    <td>Free discussion</td>
   </tr>
   <tr>
     <td class="time">17:30</td>
@@ -133,17 +136,17 @@ title: Program
         <summary>Oral session 3 (session chair: Erik Lagerstedt)</summary>
         <ul>
           <li>
-            <span class="authors">Ekaterina Voloshina and Oleg Serikov</span
+            11:20 <span class="authors">Ekaterina Voloshina and Oleg Serikov</span
             >Critical Size Hypothesis: How Model Hyperparameters Correlate with
             Its Linguistic Abilities
           </li>
           <li>
-            <span class="authors">Bastian Bunzeck and Sina Zarrieß</span>Fifty
+            11:40 <span class="authors">Bastian Bunzeck and Sina Zarrieß</span>Fifty
             shapes of BLiMP: syntactic learning curves in language models are
             not uniform, but sometimes unruly
           </li>
           <li>
-            <span class="authors"
+            12:10 <span class="authors"
               >Julia Edeleva, Martin Neef, Jiaming Liu and Martin Scheidt</span
             >L2 Interaction in Heterogeneous Learner Groups during Content and
             Language Integrated Learning: The Experience of Rail.lexis and beyond
@@ -162,13 +165,6 @@ title: Program
       <details>
         <summary>Poster session (with <span class="fika">Fika</span>) [poster format: A0 portrait]</summary>
         <ul>
-          <li>
-            <span class="authors"
-              >Hadi Wazni, Kin Ian Lo and Mehrnoosh Sadrzadeh</span
-            >
-            VerbCLIP: Improving Verb Understanding in Vision-Language Models
-            with Compositional Structures
-          </li>
           <li>
             <span class="authors">Himmet Sarıtaş and Seyda Ozcaliskan</span>The
             effect of addressee presence on L2 gesture production: Do L2
