@@ -1,6 +1,10 @@
 ---
 title: Program
 ---
+<p>
+<a href="https://gu-se.zoom.us/j/69358483641?pwd=1kLT4adbcthYKrkevwHfEYhRvVWZTS.1" target="_blank">Zoom Webinar</a>
+</p>
+
 <a href="https://aclanthology.org/volumes/2024.clasp-1/" target="_blank">Full proceedings</a>
 
 ## Day 1 -- Monday 14th October
