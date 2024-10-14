@@ -2,7 +2,7 @@
 title: Program
 ---
 <p>
-<a href="https://gu-se.zoom.us/j/69358483641?pwd=1kLT4adbcthYKrkevwHfEYhRvVWZTS.1" target="_blank">Zoom Webinar</a>
+<a href="https://gu-se.zoom.us/j/69358483641?pwd=1kLT4adbcthYKrkevwHfEYhRvVWZTS.1" target="_blank">Zoom webinar</a>
 </p>
 
 <a href="https://aclanthology.org/volumes/2024.clasp-1/" target="_blank">Full proceedings</a>
