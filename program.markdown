@@ -217,6 +217,6 @@ title: Program
   </tr>
   <tr>
     <td class="time">15:00</td>
-    <td>Closing Keynote: Robin Cooper</td>
+    <td>Closing Keynote: Robin Cooper (session chair: Sharid Loáciga)</td>
   </tr>
 </table>
