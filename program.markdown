@@ -1,6 +1,8 @@
 ---
 title: Program
 ---
+
+<!--
 <p>
 <a href="https://gu-se.zoom.us/j/69358483641?pwd=1kLT4adbcthYKrkevwHfEYhRvVWZTS.1" target="_blank">Zoom webinar</a>
 </p>
@@ -220,3 +222,4 @@ title: Program
     <td>Closing Keynote: Robin Cooper (session chair: Sharid Loáciga)</td>
   </tr>
 </table>
+-->
