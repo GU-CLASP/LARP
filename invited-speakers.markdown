@@ -1,7 +1,7 @@
 ---
 title: Invited speakers
 ---
-
+<!--
 
 ### [Catherine Pelachaud](http://chronos.isir.upmc.fr/~pelachaud/)
 _Director of Research CNRS at ISIR -- Institut des Systèmes Intelligents et de Robotique, Sorbonne Université_
@@ -74,3 +74,4 @@ ultimately we can propose an explanatory account of interactive
 learning which is grounded in biologically plausible neural activity.
 
 </details>
+-->
