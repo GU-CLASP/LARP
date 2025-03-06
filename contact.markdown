@@ -2,7 +2,7 @@
 title: Organisers
 ---
 
-
+<!--
 The program chairs can be contacted at the following address: <milling2024@softconf.com>
 
 
@@ -26,3 +26,4 @@ cognitive science.
 # Site
 
 This site was generated with <a href="http://jaspervdj.be/hakyll">Hakyll</a> and is hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
+-->
