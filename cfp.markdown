@@ -3,7 +3,7 @@ title: Call for papers
 ---
 
 <!-- EMAILS: REMEMBER TO ADD CONFERENCE TITLE AND CFP URL -->
-
+<!--
 **NEW!!** Poster abstract deadline: ~~Sep 6~~ **Sep 13** ([submission site](https://softconf.com/n/MILLing2024))
 
 ----------
@@ -133,4 +133,4 @@ cognitive foundations of language and developing efficient language
 technology. We work at the interface of computational
 linguistics/natural language processing, theoretical linguistics, and
 cognitive science.
-
+-->
