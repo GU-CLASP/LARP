@@ -1,5 +1,5 @@
 ## Conference Venue
-
+<!--
 The conference will take place at the [Humanisten](https://www.gu.se/en/humanities) building, [Renströmsgatan 6](https://www.google.com/maps/dir/Korsv%C3%A4gen,+G%C3%B6teborg/Renstr%C3%B6msgatan+6,+412+55+G%C3%B6teborg/@57.6958231,11.9847919,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x464ff37619eecd8b:0x68de5ad154ecfae!2m2!1d11.9869245!2d57.6966813!1m5!1m1!1s0x464ff375e85ffea7:0x75a06ff6e070e6f4!2m2!1d11.9851008!2d57.6948769!3e2?entry=ttu), room J222.  The Humanisten building is located at Näckrosdammen, near the tram/bus stop Korsvägen. The facility is handicap-accessible and environmentally certified.
 Train station
 
@@ -71,3 +71,4 @@ E-mail: reception@hotellheden.se\
 # About Sweden
 
 Note that the use of cash is rare in Sweden. Payments by card are preferred and possible everywhere, with cash not even accepted in many stores. <https://sweden.se/life/society/a-cashless-society>
+-->
