@@ -1,17 +1,10 @@
 ---
 title: Organisers
 ---
-Test
-
-<!--
-
 
 The program chairs can be contacted at the following address: <milling2024@softconf.com>
 
-
-**Program Chairs** _(alphabetical order)_: Amy Qiu, Bill Noble, David Pagmar, & Vladislav Maraev 
-
-**Proceedings Chair:** Nikolai Ilinykh
+**Program Chairs** _(alphabetical order)_: Mattias Appelgren, Nikolai Ilinykh, Erik Lagerstedt
 
 # CLASP
 
@@ -29,4 +22,3 @@ cognitive science.
 # Site
 
 This site was generated with <a href="http://jaspervdj.be/hakyll">Hakyll</a> and is hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
--->
