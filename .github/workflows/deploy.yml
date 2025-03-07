@@ -13,7 +13,7 @@ jobs:
       with:
         nix_path: nixpkgs=channel:nixos-23.11
     - run: nix develop --command bash -c "cabal build"
-    - run: ./dist-newstyle/build/x86_64-linux/ghc-9.4.8/milling-0.1.0.0/x/milling/build/milling/milling build
+    - run: ./dist-newstyle/build/x86_64-linux/ghc-9.4.8/larp-0.1.0.0/x/larp/build/larp/larp build
     - run: ls -l
     - uses: s0/git-publish-subdir-action@develop
       env:
