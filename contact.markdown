@@ -10,7 +10,7 @@ Mattias Appelgren, Nikolai Ilinykh, Erik Lagerstedt
 
 # CLASP
 
-MILLing is organised by the Centre for Linguistic Theory and Studies
+LARP is organised by the Centre for Linguistic Theory and Studies
 in Probability ([CLASP](https://gu-clasp.github.io/)) at the Department
 of Philosophy, Linguistics and Theory of Science (FLoV), University of
 Gothenburg. CLASP focuses its research on the application of
