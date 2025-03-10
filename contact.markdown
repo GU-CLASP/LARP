@@ -24,3 +24,12 @@ cognitive science.
 # Site
 
 This site was generated with <a href="http://jaspervdj.be/hakyll">Hakyll</a> and is hosted on <a href="https://pages.github.com/">GitHub Pages</a>.
+The conference logo was generated using GPT-4.5 and edited by Erik Lagerstedt.
+
+
+
+
+
+
+
+
