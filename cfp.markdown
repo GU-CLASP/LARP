@@ -27,6 +27,7 @@ Invited speakers
 
 Topics of interest
 ----
+<div style="text-align: justify">
 We hope to see innovative work that considers neural and symbolic learning and processing in terms of different modelling perspectives. Papers are invited on the following topics as they relate to natural language: 
 
 - Neuro-symbolic integration: novel hybrid frameworks combining symbolic representations with neural network learning for enhanced reasoning and natural language processing 
@@ -40,29 +41,41 @@ We hope to see innovative work that considers neural and symbolic learning and p
 - Fine-tuning and in-context learning strategies that incorporate logical or rule-based knowledge  
 
 This list is illustrative but is not intended to be exhaustive.
+</div>
 
 Submission Requirements
 ----
 
 **Non-archival track**  
+<div style="text-align: justify">
 Archival track will feature the following types of submissions to appear in conference proceedings: we accept long papers (max 8 pages) and short papers (max 4 pages). Long and short papers must describe substantial, original, and unpublished research. Supplementary materials, appendices, a section on limitations and ethical concerns do not count towards the page limit. Archival accepted papers will be published in the 2025 ACL Anthology as a CLASP Conference Proceedings. Papers should be electronically submitted via the OpenReview system at [LINK]. Submissions should be .pdf files and use the LaTeX or Word templates provided for ACL submissions (<https://github.com/acl-org/acl-style-files>). Archival submissions must be anonymous. Please make sure that you select the right track when submitting your paper. Contact the organisers if you have questions.
+</div>
 
 **Non-archival track**  
+<div style="text-align: justify">
 At the time of submission, authors may indicate that their paper should be considered for the non-archival track. The format for non-archival submissions is the same for both long and short papers as it is for the archival submissions. Non-archival papers will not undergo the peer review process. They will be evaluated by the programme committee for clarity and content relevance before the decision by the PC is made. Non-archival papers do not need to be anonymous. If accepted, they are to be published on the conference website and presented as posters.
+</div>
 
 **Poster abstracts**  
+<div style="text-align: justify">
 We invite researchers to submit abstracts in the above areas of interest. Abstract submissions are non-archival. This is a great opportunity to get feedback on work in progress or to present previously published work to a new audience. The deadline for abstract submission is the same as for non-archival papers. Notifications of acceptance will be sent out by August 8, 2025. Abstract submissions should be .pdf files and use the LaTeX or Word templates provided for ACL submissions (https://github.com/acl-org/acl-style-files). Abstracts should not exceed 2 pages (supplementary materials, appendices, a section on limitations and ethical concerns are not included) and be submitted via OpenReview system: [LINK]. The acceptance decision on abstracts will go through the same procedure as papers for the non-archival track. Accepted abstracts will be presented as posters.
-
+</div>
 
 Concurrent Submissions
 ----
+<div style="text-align: justify">
 Papers that have been or will be submitted to other conferences or publications must indicate this at submission time using a footnote on the title page of the submissions. Authors of papers accepted for presentation at LARP must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. All accepted papers must be presented at the conference to appear in the Proceedings. We will not accept publications or presentation papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
+</div>
 
 Camera Ready Versions
 ----
+<div style="text-align: justify">
 Camera ready versions must be deanonymised. Archival submissions get 1 more page to address comments from reviewers: long papers can be maximum up to 9 pages, short papers can be maximum up to 5 pages.
+</div>
 
 About CLASP
 ----
+<div style="text-align: justify">
 LARP is organised by the Centre for Linguistic Theory and Studies in Probability (CLASP, https://gu-clasp.github.io/) at the Department of Philosophy, Linguistics and Theory of Science (FLoV), University of Gothenburg. CLASP focuses its research on the application of probabilistic and information theoretic methods to the analysis of natural language. CLASP is concerned both with understanding the cognitive foundations of language and developing efficient language technology. We work at the interface of computational linguistics/natural language processing, theoretical linguistics, and cognitive science.
+</div>
 
