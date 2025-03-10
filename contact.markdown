@@ -2,7 +2,7 @@
 title: Organisers
 ---
 
-The program chairs can be contacted at the following address: <milling2024@softconf.com>
+The program chairs can be contacted at the following address: <larp2025conference@gmail.com>
 
 **Program Chairs** _(alphabetical order)_: Mattias Appelgren, Nikolai Ilinykh, Erik Lagerstedt
 
