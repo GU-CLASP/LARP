@@ -2,19 +2,23 @@
 title: Call for papers
 ---
 
+<div style="text-align: justify">
+
 *Language models And RePresentations (LARP)* brings together researchers that explore how information is structured, encoded and used in computational language systems. We encourage submissions on both neural (sub-symbolic) and discrete (symbolic) representations from the fields of computational linguistics and artificial intelligence or their intersection.
 
 The conference is organised by the Centre for Linguistic Theory and Studies in Probability (CLASP, https://gu-clasp.github.io/), University of Gothenburg. The conference will be held between September 8 and 9 in Gothenburg, Sweden.
 
+</div>
+
 Important dates
 ----
--Submission deadline (archival): **April 28, 2025**, anywhere on Earth
--Notification of acceptance (archival): **June 20, 2025**, anywhere on Earth
--Submission deadline (non-archival): **August 1, 2025**, anywhere on Earth
--Notification of acceptance (non-archival): **August 8, 2025**, anywhere on Earth
--Camera ready: **August 8, 2025**, anywhere on Earth
--Registration deadline: **TBA**
--Conference: **September 8–9, 2025**, University of Gothenburg, Sweden
+- Submission deadline (archival): **April 28, 2025**, anywhere on Earth
+- Notification of acceptance (archival): **June 20, 2025**, anywhere on Earth
+- Submission deadline (non-archival): **August 1, 2025**, anywhere on Earth
+- Notification of acceptance (non-archival): **August 8, 2025**, anywhere on Earth
+- Camera ready: **August 8, 2025**, anywhere on Earth
+- Registration deadline: **TBA**
+- Conference: **September 8–9, 2025**, University of Gothenburg, Sweden
 
 
 Invited speakers
