@@ -2,9 +2,11 @@
 title: Organisers
 ---
 
-The program chairs can be contacted at the following address: <larp2025conference@gmail.com>
+The program chairs can be contacted at the following address: <larp2025@flov.gu.se>
 
-**Program Chairs** _(alphabetical order)_: Mattias Appelgren, Nikolai Ilinykh, Erik Lagerstedt
+**Program Chairs** _(alphabetical order)_:  
+
+Mattias Appelgren, Nikolai Ilinykh, Erik Lagerstedt
 
 # CLASP
 
