@@ -32,13 +32,13 @@ nav a {
 nav a:hover {
     text-decoration-line: underline;
     text-decoration-thickness: 0.2rem;
-    text-decoration-color: rgb(242, 114, 18);
+    text-decoration-color: rgb(0, 75, 137);
 }
 
 nav .current-link {
     text-decoration-line: underline;
     text-decoration-thickness: 0.2rem;
-    text-decoration-color: rgb(242, 114, 18);
+    text-decoration-color: rgb(0, 75, 137);
     text-underline-offset: 0.42rem;
 }
 
