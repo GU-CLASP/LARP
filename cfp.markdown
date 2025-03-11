@@ -55,7 +55,9 @@ We invite researchers to submit abstracts in the above areas of interest. Abstra
 
 Concurrent Submissions
 ----
-Papers that have been or will be submitted to other conferences or publications must indicate this at submission time using a footnote on the title page of the submissions. Authors of papers accepted for presentation at LARP must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. All accepted papers must be presented at the conference to appear in the Proceedings. We will not accept publications or presentation papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
+Papers that have been or will be submitted to other conferences or publications must indicate this at submission time using a footnote on the title page of the submissions. We will not accept publications or presentation papers that overlap significantly in content or results with papers that will be (or have been) published elsewhere.
+
+Authors of papers accepted for presentation at LARP must notify the program chairs by the camera-ready deadline as to whether the paper will be presented. All accepted papers must be presented at the conference to appear in the Proceedings.
 
 Camera Ready Versions
 ----
