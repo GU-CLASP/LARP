@@ -42,6 +42,8 @@ This list is illustrative but is not intended to be exhaustive.
 Submission Requirements
 ----
 
+We accept **only direct submissions** at [this link](https://openreview.net/group?id=CLASP/LARP/2025/Conference).
+
 **Archival track**  
 Archival track will feature the following types of submissions to appear in conference proceedings: we accept long papers (max 8 pages) and short papers (max 4 pages). Long and short papers must describe substantial, original, and unpublished research. Supplementary materials, appendices, a section on limitations and ethical concerns do not count towards the page limit. Archival accepted papers will be published in the 2025 ACL Anthology as a CLASP Conference Proceedings. Papers should be electronically submitted via the OpenReview system at [this link](https://openreview.net/group?id=CLASP/LARP/2025/Conference). Submissions should be .pdf files and use the LaTeX or Word templates provided for ACL submissions (<https://github.com/acl-org/acl-style-files>). Archival submissions must be anonymous. Please make sure that you select the right track when submitting your paper. Contact the organisers if you have questions.
 
