@@ -13,7 +13,7 @@ _Eduardo D. Glandt Distinguished Professor at the Department of Computer and Inf
 </details>
 
 ### [Vaishak Belle](http://www.vaishakbelle.org/about/)
-Reader, Chancellor’s Fellow, Royal Society University Research Fellow, and Alan Turing Faculty Fellow at the University of Edinburgh
+_Reader, Chancellor’s Fellow, Royal Society University Research Fellow, and Alan Turing Faculty Fellow at the University of Edinburgh_
 
 <details>
 <summary>TBA (Neurosymbolic AI)</summary>
