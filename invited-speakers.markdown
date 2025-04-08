@@ -4,8 +4,6 @@ title: Invited speakers
 
 **TBA**
 
-<!--
-
 ### [Dan Roth](https://www.cis.upenn.edu/~danroth/)
 _Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania_
 
@@ -31,7 +29,7 @@ _Associate Professor (Docent) at the Departement of Computer Science and Enginee
 </details>
 
 
-
+<--
 
 ### [TBA]()
 
