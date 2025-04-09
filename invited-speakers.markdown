@@ -2,8 +2,6 @@
 title: Invited speakers
 ---
 
-**TBA**
-
 ### [Dan Roth](https://www.cis.upenn.edu/~danroth/)
 _Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania_
 
@@ -21,7 +19,7 @@ _Reader, Chancellor’s Fellow, Royal Society University Research Fellow, and Al
 </details>
 
 ### [Moa Johansson](https://www.cse.chalmers.se/~jomoa/)
-_Associate Professor (Docent) at the Departement of Computer Science and Engineering at Chalmers University in Gothenburg_
+_Associate Professor (Docent) at the Department of Computer Science and Engineering at Chalmers University in Gothenburg_
 
 <details>
 <summary>TBA</summary>
@@ -29,12 +27,10 @@ _Associate Professor (Docent) at the Departement of Computer Science and Enginee
 </details>
 
 
-<--
-
 ### [TBA]()
 
 
 <details><summary></summary>
 
 </details>
--->
+
