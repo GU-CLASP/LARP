@@ -12,7 +12,7 @@ Important dates
 ----
 - Submission deadline (archival): **April 28, 2025**, anywhere on Earth
 - Notification of acceptance (archival): **June 20, 2025**, anywhere on Earth
-- **NEW!** Commitment deadline for pre-reviewed ACL ARR submissions: **July 31, 2025**, anywhere on Earth
+- **NEW!!!** Commitment deadline for pre-reviewed ACL ARR submissions: **July 31, 2025**, anywhere on Earth
 - Submission deadline (non-archival): **August 1, 2025**, anywhere on Earth
 - Notification of acceptance (non-archival and ARR Commitments): **August 8, 2025**, anywhere on Earth
 - Notification of acceptance: **August 8, 2025**, anywhere on Earth
@@ -52,7 +52,7 @@ Submission Requirements
 **Archival track**  
 Archival track will feature the following types of submissions to appear in conference proceedings: we accept long papers (max 8 pages) and short papers (max 4 pages). Long and short papers must describe substantial, original, and unpublished research. Supplementary materials, appendices, a section on limitations and ethical concerns do not count towards the page limit. Archival accepted papers will be published in the 2025 ACL Anthology as a CLASP Conference Proceedings. Papers should be electronically submitted via the OpenReview system at: https://openreview.net/group?id=CLASP/LARP/2025/Conference. Submissions should be .pdf files and use the LaTeX or Word templates provided for ACL submissions (<https://github.com/acl-org/acl-style-files>). Archival submissions must be anonymous. Please make sure that you select the right track when submitting your paper. Contact the organisers if you have questions.
 
-**NEW!: ARR Commitment**  
+**NEW!!! ARR Commitment**  
 
 We accept papers that have been pre-reviewed via [ACL Rolling Review](https://aclrollingreview.org). You are welcome to submit the link to your ARR submission. The linked submission must include both the reviews and the meta-review. Both the submission and its reviews will be evaluated by the programme committee. To submit, please visit: https://openreview.net/group?id=CLASP/LARP/2025/ARR_Commitment.
 
