@@ -15,8 +15,8 @@ Important dates
 - **NEW!!!** Commitment deadline for pre-reviewed ACL ARR submissions: **July 31, 2025**, anywhere on Earth
 - Submission deadline (non-archival): **August 1, 2025**, anywhere on Earth
 - Notification of acceptance (non-archival and ARR Commitments): **August 8, 2025**, anywhere on Earth
-- Notification of acceptance: **August 8, 2025**, anywhere on Earth
-- Camera ready: **August 8, 2025**, anywhere on Earth
+- Camera ready (archival): **August 8, 2025**, anywhere on Earth
+- Camera ready (ARR Commitments): **August 15, 2025**, anywhere on Earth
 - Registration deadline: **TBA**
 - Conference: **September 8–9, 2025**, University of Gothenburg, Sweden
 
@@ -57,7 +57,7 @@ Archival track will feature the following types of submissions to appear in conf
 We accept papers that have been pre-reviewed via [ACL Rolling Review](https://aclrollingreview.org). You are welcome to submit the link to your ARR submission. The linked submission must include both the reviews and the meta-review. Both the submission and its reviews will be evaluated by the programme committee. To submit, please visit: https://openreview.net/group?id=CLASP/LARP/2025/ARR_Commitment.
 
 **Non-archival track**  
-At the time of submission, authors may indicate that their paper should be considered for the non-archival track. The format for non-archival submissions is the same for both long and short papers as it is for the archival submissions. Non-archival papers will not undergo the peer review process. They will be evaluated by the programme committee for clarity and content relevance before the decision by the PC is made. Non-archival papers do not need to be anonymous. If accepted, they are to be published on the conference website and presented as posters.
+At the time of submission, authors may indicate that their paper should be considered for the non-archival track. The format for non-archival submissions is the same for both long and short papers as it is for the archival submissions. Non-archival papers will not undergo the peer review process. They will be evaluated by the programme committee for clarity and content relevance before the decision by the PC is made. Non-archival papers do not need to be anonymous. If accepted, they are to be published on the conference website and presented as posters. We will not ask for camera-ready version for non-archival submissions as they can be submitted in their final form.
 
 **Poster abstracts**  
 We invite researchers to submit abstracts in the above areas of interest. Abstract submissions are non-archival. This is a great opportunity to get feedback on work in progress or to present previously published work to a new audience. The deadline for abstract submission is the same as for non-archival papers. Notifications of acceptance will be sent out by August 8, 2025. Abstract submissions should be .pdf files and use the LaTeX or Word templates provided for ACL submissions (https://github.com/acl-org/acl-style-files). Abstracts should not exceed 2 pages (supplementary materials, appendices, a section on limitations and ethical concerns are not included) and be submitted via OpenReview system at: https://openreview.net/group?id=CLASP/LARP/2025/Conference. The acceptance decision on abstracts will go through the same procedure as papers for the non-archival track. Accepted abstracts will be presented as posters.
