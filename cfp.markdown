@@ -25,9 +25,9 @@ Invited speakers
 ----
 We are pleased to announce the following keynote speakers:
 
-Dan Roth, University of Pennsylvania and Oracle
-Vaishak Belle, University of Edinburgh
-Moa Johansson, Chalmers University of Technology 
+Dan Roth, University of Pennsylvania and Oracle  
+Vaishak Belle, University of Edinburgh  
+Moa Johansson, Chalmers University of Technology  
 
 
 Topics of interest
