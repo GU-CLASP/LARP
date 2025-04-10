@@ -5,6 +5,10 @@ title: Invited speakers
 ### [Dan Roth](https://www.cis.upenn.edu/~danroth/)
 _University of Pennsylvania and Oracle_
 
+<div style="text-align: left;">
+  <a href="/"><img src="/images/dan_roth.jpg" height="200"/></a>
+</div>
+
 <details>
 <summary>Bio</summary>
 
@@ -20,9 +24,10 @@ Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel an
 </details>
 
 <details>
-<summary>TBA</summary>
+<summary>Talk: TBA</summary>
 
 </details>
+
 
 ### [Vaishak Belle](http://www.vaishakbelle.org/about/)
 _Reader, Chancellor’s Fellow, Royal Society University Research Fellow, and Alan Turing Faculty Fellow at the University of Edinburgh_
