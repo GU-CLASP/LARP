@@ -4,6 +4,20 @@ title: Program
 
 **TBA**
 
+
+
+
+<!--
+**REMEMBER!!**
+Schedule Vaishaks talk for the 9th! (He will come to Gothenburg sometime during the 8th and will leave in the evening of the 9th).
+-->
+
+
+
+
+
+
+
 <!--
 <p>
 <a href="https://gu-se.zoom.us/j/69358483641?pwd=1kLT4adbcthYKrkevwHfEYhRvVWZTS.1" target="_blank">Zoom webinar</a>
