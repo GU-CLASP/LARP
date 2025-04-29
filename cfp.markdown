@@ -10,7 +10,7 @@ The conference is organised by the Centre for Linguistic Theory and Studies in P
 
 Important dates
 ----
-- Submission deadline (archival): **~~April 28, 2025~~** **May 5, 2025**, anywhere on Earth
+- Submission deadline (archival): **~~April 28, 2025~~** **May 12, 2025**, anywhere on Earth
 - Notification of acceptance (archival): **June 20, 2025**, anywhere on Earth
 - **NEW!!!** Commitment deadline for pre-reviewed ACL ARR submissions: **July 31, 2025**, anywhere on Earth
 - Submission deadline (non-archival): **August 1, 2025**, anywhere on Earth
