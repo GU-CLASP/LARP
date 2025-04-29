@@ -13,7 +13,7 @@ Landvetter Airport is located 25km from Gothenburg. The airport shuttle service 
 
 ## Taxi
 
-The journey from the airport to the city takes 30 minutes. We recommend [Taxi Göteborg](https://www.taxigoteborg.se/en/booking).
+The journey from the airport to the city takes 30 minutes. We recommend [Taxi Göteborg](https://www.taxigoteborg.se/en).
 
 ## Train Station
 The Gothenburg Centralstation is located approximately 2km from the Humanisten building; you can either choose to walk or take the tram number 2 or 4 (direction: Mölndal) and get off at tram stop *Korsvägen*. For timetables and tickets, we recommend the app [Västtrafik To Go](https://www.vasttrafik.se/en/tickets/more-about-tickets/vasttrafik-to-go/), a simple way to purchase tickets with your mobile phone.  It is also now possible to pay for a trip in Zone A by [tapping](https://www.vasttrafik.se/en/Tickets/more-about-tickets/Tap-payment/) a contactless payment card or mobile device. Other ways to purchase tickets can be found [here](https://www.vasttrafik.se/en/).
