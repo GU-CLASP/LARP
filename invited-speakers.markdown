@@ -65,6 +65,6 @@ In this talk, I will describe a neuro-symbolic method for introducing such abstr
 On the symbolic side, we draw on work from library learning in program synthesis for proposing abstractions.
 We combine this with neural methods for communication and reinforcement learning, via a novel use of bandit algorithms for controlling the exploration and exploitation trade-off in introducing new abstractions.  
 
-Accepted for CogSci 2025 (oral), preprint: https://arxiv.org/abs/2409.20120
+Accepted for CogSci 2025 (oral), preprint: [https://arxiv.org/abs/2409.20120](https://arxiv.org/abs/2409.20120)
 </details>
 
