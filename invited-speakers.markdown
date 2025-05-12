@@ -47,6 +47,10 @@ Recently, he has consulted with major banks on explainable AI and its impact in 
 ### [Moa Johansson](https://www.cse.chalmers.se/~jomoa/)
 _Chalmers University of Technology_
 
+<div style="text-align: left;">
+  <a href="/"><img src="/images/moa_johansson.jpeg" height="200"/></a>
+</div>
+
 <details>
 <summary>Bio</summary>
 </details>
