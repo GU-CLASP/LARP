@@ -53,8 +53,18 @@ _Chalmers University of Technology_
 
 <details>
 <summary>Bio</summary>
+Moa Johansson is an Associate Professor in the Data Science and AI division at Chalmers University of Technology.
+She is interested in neuro-symbolic AI: the combination of neural machine learning methods and symbolic methods from e.g. theorem proving and program synthesis.
+Her group works on applications in maths and reasoning, cognitive science, and language.
 </details>
 <details>
-<summary>Talk: TBA</summary>
+<summary>Talk: **PACE: Procedural Abstractions for Communicating Efficiently**</summary>
+A central but unresolved aspect of problem-solving in AI is the capability to introduce and use abstractions, something humans excel at.
+Work in cognitive science has demonstrated that humans tend towards higher levels of abstraction when engaged in collaborative task-oriented communication, enabling gradually shorter and more information-efficient utterances.
+In this talk, I will describe a neuro-symbolic method for introducing such abstractions called PACE.
+On the symbolic side, we draw on work from library learning in program synthesis for proposing abstractions.
+We combine this with neural methods for communication and reinforcement learning, via a novel use of bandit algorithms for controlling the exploration and exploitation trade-off in introducing new abstractions.  
+
+Accepted for CogSci 2025 (oral), preprint: https://arxiv.org/abs/2409.20120
 </details>
 
