@@ -17,7 +17,7 @@ Important dates
 - Notification of acceptance (non-archival and OR Commitments): **August 8, 2025**, anywhere on Earth
 - Camera ready (archival): **August 8, 2025**, anywhere on Earth
 - Camera ready (OR Commitments): **August 15, 2025**, anywhere on Earth
-- Registration deadline: **August 22, 2025**, anywhere on Earth
+- Registration deadline: **August 24, 2025**, anywhere on Earth
 - Conference: **September 8–9, 2025**, University of Gothenburg, Sweden
 
 
