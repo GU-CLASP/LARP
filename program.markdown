@@ -99,7 +99,7 @@ title: Program
   </tr>
 </table>
 
-## Day 2 -- Tuesday 9th October
+## Day 2 -- Tuesday 9th September
 
 <table>
   <tr>
