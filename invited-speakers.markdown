@@ -9,6 +9,14 @@ _University of Pennsylvania and Oracle_
   <a href="/"><img src="/images/dan_roth.jpg" height="200"/></a>
 </div>
 
+
+<details>
+<summary>Talk: On Retrieving & Reasoning LLMs: Myths, Merits, and How to Move Forward</summary>
+The rapid progress made over the last few years in generating linguistically coherent natural language has blurred, in the mind of many, the difference between natural language generation, understanding, knowledge retrieval and use, and the ability to reason with respect to the world.
+Nevertheless, reliably and consistently supporting high-level decisions that depend on natural language understanding and heterogenous information retrieval is still difficult, mostly, but not only, since most of these tasks are computationally more complex than language models can support.
+I will discuss some of the challenges underlying reasoning and information access and argue that we should exploit what LLMs do well while delegating responsibility to special purpose models and solvers for decision making.
+I will present some of our work in this space, focusing on supporting reasoning and information access via Neuro-symbolic methods.
+</details>
 <details>
 <summary>Bio</summary>
 Dan Roth is the Eduardo D. Glandt Distinguished Professor at the Department of Computer and Information Science, University of Pennsylvania and the Chief AI Scientist at Oracle.
@@ -21,14 +29,19 @@ Roth has been involved in several startups; most recently he was a co-founder an
 NexLP was acquired by Reveal.
 Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel and his Ph.D. in Computer Science from Harvard University in 1995.
 </details>
-<details>
-<summary>Talk: TBA</summary>
-</details>
 
 
 ### [Vaishak Belle](http://www.vaishakbelle.org/about/)
 _University of Edinburgh_
 
+<details>
+<summary>Talk: Reasoning with Large & Small Models: Bridging Symbolic and Neural Approaches</summary>
+This talk explores the intersection of large language models (LLMs) and reasoning systems, with a focus on addressing fundamental challenges in developing correct and reliable systems.
+We'll examine our work on augmenting LLMs with external "symbolic executors", creating hybrid architectures that leverage the strengths of both paradigms.
+The presentation will then talk about how LLMs represent and manipulate beliefs - standing for interactions with human or artificial users.
+We'll also discuss a few considerations for agentic pipelines, and how these sit with the broader paradigm of agent modelling, which has a long history in AI.
+We'll preface this development by first briefly reviewing the paradigm of neuro-symbolic AI, and emergent ideas such as loss functions and neural program induction.
+</details>
 <details>
 <summary>Bio</summary>
 Dr Vaishak Belle (he/him) is a Chancellor’s Fellow and Reader at the School of Informatics, University of Edinburgh.
@@ -40,9 +53,6 @@ In 2014, he received a silver medal by the Kurt Goedel Society.
 He has served on the senior program committee/area chair of major AI conferences, co-chaired the ML track at KR, among others, and as PI and CoI secured a grant income of close to 8 million pounds.
 Recently, he has consulted with major banks on explainable AI and its impact in financial institutions.
 </details>
-<details>
-<summary>Talk: TBA</summary>
-</details>
 
 ### [Moa Johansson](https://www.cse.chalmers.se/~jomoa/)
 _Chalmers University of Technology_
@@ -52,19 +62,17 @@ _Chalmers University of Technology_
 </div>
 
 <details>
-<summary>Bio</summary>
-Moa Johansson is an Associate Professor in the Data Science and AI division at Chalmers University of Technology.
-She is interested in neuro-symbolic AI: the combination of neural machine learning methods and symbolic methods from e.g. theorem proving and program synthesis.
-Her group works on applications in maths and reasoning, cognitive science, and language.
-</details>
-<details>
 <summary>Talk: **PACE: Procedural Abstractions for Communicating Efficiently**</summary>
 A central but unresolved aspect of problem-solving in AI is the capability to introduce and use abstractions, something humans excel at.
 Work in cognitive science has demonstrated that humans tend towards higher levels of abstraction when engaged in collaborative task-oriented communication, enabling gradually shorter and more information-efficient utterances.
 In this talk, I will describe a neuro-symbolic method for introducing such abstractions called PACE.
 On the symbolic side, we draw on work from library learning in program synthesis for proposing abstractions.
-We combine this with neural methods for communication and reinforcement learning, via a novel use of bandit algorithms for controlling the exploration and exploitation trade-off in introducing new abstractions.  
-
+We combine this with neural methods for communication and reinforcement learning, via a novel use of bandit algorithms for controlling the exploration and exploitation trade-off in introducing new abstractions.
 Accepted for CogSci 2025 (oral), preprint: [https://arxiv.org/abs/2409.20120](https://arxiv.org/abs/2409.20120)
 </details>
-
+<details>
+<summary>Bio</summary>
+Moa Johansson is an Associate Professor in the Data Science and AI division at Chalmers University of Technology.
+She is interested in neuro-symbolic AI: the combination of neural machine learning methods and symbolic methods from e.g. theorem proving and program synthesis.
+Her group works on applications in maths and reasoning, cognitive science, and language.
+</details>
