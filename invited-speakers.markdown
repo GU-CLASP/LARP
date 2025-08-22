@@ -34,6 +34,10 @@ Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel an
 ### [Vaishak Belle](http://www.vaishakbelle.org/about/)
 _University of Edinburgh_
 
+<div style="text-align: left;">
+  <a href="/"><img src="/images/vaishak_belle.jpg" height="200"/></a>
+</div>
+
 <details>
 <summary>Talk: **Reasoning with Large & Small Models: Bridging Symbolic and Neural Approaches**</summary>
 This talk explores the intersection of large language models (LLMs) and reasoning systems, with a focus on addressing fundamental challenges in developing correct and reliable systems.
