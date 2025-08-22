@@ -79,12 +79,17 @@ title: Program
             <a target="_blank">
             Combining Information State Update, Harel Statecharts and LLMs for controllable and flexible Conversational AI
           </li>
+          <li>
+           14:20 <span class="authors">Dan Oneata, Desmond Elliott, Stella Frank </span>
+            <a target="_blank" ref="https://aclanthology.org/2025.findings-acl.1240.pdf">
+            Seeing What Tastes Good: Revisiting Multimodal Distributional Semantics in the Billion Parameter Era</a>
+          </li>
         </ul>
       </details>
     </td>
   </tr>
   <tr>
-    <td class="time">14:20</td>
+    <td class="time">14:45</td>
     <td><span class="fika">Fika</span></td>
   </tr>
   <tr class="work">
