@@ -11,7 +11,7 @@ _University of Pennsylvania and Oracle_
 
 
 <details>
-<summary>Talk: On Retrieving & Reasoning LLMs: Myths, Merits, and How to Move Forward</summary>
+<summary>Talk: **On Retrieving & Reasoning LLMs: Myths, Merits, and How to Move Forward**</summary>
 The rapid progress made over the last few years in generating linguistically coherent natural language has blurred, in the mind of many, the difference between natural language generation, understanding, knowledge retrieval and use, and the ability to reason with respect to the world.
 Nevertheless, reliably and consistently supporting high-level decisions that depend on natural language understanding and heterogenous information retrieval is still difficult, mostly, but not only, since most of these tasks are computationally more complex than language models can support.
 I will discuss some of the challenges underlying reasoning and information access and argue that we should exploit what LLMs do well while delegating responsibility to special purpose models and solvers for decision making.
@@ -35,7 +35,7 @@ Dan received his B.A Summa cum laude in Mathematics from the Technion, Israel an
 _University of Edinburgh_
 
 <details>
-<summary>Talk: Reasoning with Large & Small Models: Bridging Symbolic and Neural Approaches</summary>
+<summary>Talk: **Reasoning with Large & Small Models: Bridging Symbolic and Neural Approaches**</summary>
 This talk explores the intersection of large language models (LLMs) and reasoning systems, with a focus on addressing fundamental challenges in developing correct and reliable systems.
 We'll examine our work on augmenting LLMs with external "symbolic executors", creating hybrid architectures that leverage the strengths of both paradigms.
 The presentation will then talk about how LLMs represent and manipulate beliefs - standing for interactions with human or artificial users.
