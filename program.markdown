@@ -120,6 +120,14 @@ title: Program
     <td>
       <details>
         <summary>Panel discussion</summary>
+        <ul>
+        <li>
+          Moderator: Shalom Lappin
+          </li>
+          <li>
+          Panelists: Richard Johansson, Stella Frank, Aarne Rante, Moa Johansson
+          </li>
+        </ul>
       </details>
     </td>
   </tr>
