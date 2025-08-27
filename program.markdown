@@ -26,33 +26,38 @@ title: Program
     <td>Welcome and introductory remarks</td>
   </tr>
   <tr class="work">
-    <td class="time">09:30</td>
+    <td class="time">09:25</td>
     <td>Keynote 1: Moa Johansson (session chair: )</td>
   </tr>
   <tr class="work">
-    <td class="time">10:30</td>
+    <td class="time">10:25</td>
     <td><span class="fika">Fika (Swedish: “a coffee and a treat”)</span></td>
   </tr>
   <tr class="work">
-    <td class="time">11:00</td>
+    <td class="time">10:45</td>
     <td>
       <details>
         <summary>Oral session 1</summary>
         <ul>
           <li>
-            11:00 <span class="authors">Ludovic Mompelat </span>
+            10:45 <span class="authors">Ludovic Mompelat </span>
             <a target="_blank">
             Simple Morphology, Complex Models: A Benchmark Study and Error Analysis of POS Tagging for Martinican Creole
           </li>
           <li>
-            11:25 <span class="authors">Ved Mathai, Janet B. Pierrehumbert </span>
+            11:10 <span class="authors">Ved Mathai, Janet B. Pierrehumbert </span>
             <a target="_blank">
             EventHopNLI: A Functional Dataset for Systematically Diagnosing Logical Failures in LLM Temporal Reasoning
           </li>
           <li>
-            11:50 <span class="authors">Manar Ali, Marika Sarzotti, Simeon Junker, Hendrik Buschmeier, Sina Zarrieß </span>
+            11:35 <span class="authors">Manar Ali, Marika Sarzotti, Simeon Junker, Hendrik Buschmeier, Sina Zarrieß </span>
             <a target="_blank">
             Towards Neuro-Symbolic Approaches for Referring Expression Generation
+          </li>
+          <li>
+            12:00 <span class="authors">Dominik Künkele and Simon Dobnik </span>
+            <a target="_blank">
+            Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents
           </li>
         </ul>
       </details>
