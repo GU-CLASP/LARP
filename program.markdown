@@ -104,7 +104,7 @@ title: Program
   <tr>
     <td class="time">17:00</td>
     <td>
-      Social event
+      Social event (see [Dinner Venue](https://gu-clasp.github.io/LARP/venue.html))
     </td>
   </tr>
 </table>
