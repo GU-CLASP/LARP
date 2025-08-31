@@ -3,7 +3,7 @@ The conference will take place at the [Humanisten](https://www.gu.se/en/humaniti
 
 
 ## Dinner Venue
-The conference dinner will take place on board M/S Eriksberg. We will take a 3-hour cruise in the Gothenburg archipelago. Most welcome on board! The boat will leave at 18:00 from [Stenpiren](https://maps.apple.com/?auid=15493928370620691955&address=Göteborg,Sweden&ll=57.7057857,11.9576227), which is 2.5 Km from the conference venue, accessible by walking or public transportation. Student volunteers will be available after the panel discussion to assist with directions.
+The conference dinner will take place on board M/S Eriksberg. We will take a 3-hour cruise in the Gothenburg archipelago. Most welcome on board! The boat will leave at 18:00 from [Stenpiren](https://maps.apple.com/?auid=15493928370620691955&address=Göteborg,Sweden&ll=57.7057857,11.9576227), which is 2.5 Km from the conference venue, accessible by walking or public transportation. Student volunteers will be available after the panel discussion to assist with directions. If you think you will be experiencing symptoms of sea sickness, we recommnd you to have needed medication with you.
 
 # Travel Information
 
