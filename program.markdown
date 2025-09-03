@@ -27,7 +27,7 @@ title: Program
   </tr>
   <tr class="work">
     <td class="time">09:25</td>
-    <td>Keynote 1: Moa Johansson (session chair: )</td>
+    <td>Keynote 1: Moa Johansson (session chair: Erik Lagerstedt)</td>
   </tr>
   <tr class="work">
     <td class="time">10:25</td>
@@ -99,7 +99,7 @@ title: Program
   </tr>
   <tr class="work">
     <td class="time">15:00</td>
-    <td>Keynote 2: Dan Roth (session chair: )</td>
+    <td>Keynote 2: Dan Roth (session chair: Nikolai Ilinykh)</td>
   </tr>
   <tr>
     <td class="time">17:00</td>
@@ -114,7 +114,7 @@ title: Program
 <table>
   <tr>
     <td class="time">10:00</td>
-    <td>Keynote 3: Vaishak Belle (session chair: ) </td>
+    <td>Keynote 3: Vaishak Belle (session chair: Mattias Appelgren) </td>
   </tr>
   <tr>
     <td class="time">11:00</td>
@@ -130,7 +130,7 @@ title: Program
           Moderator: Shalom Lappin
           </li>
           <li>
-          Panelists: Richard Johansson, Stella Frank, Aarne Rante, Moa Johansson
+          Panelists: Richard Johansson, Vidya Somashekarappa, Aarne Rante, Moa Johansson
           </li>
         </ul>
       </details>
