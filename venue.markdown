@@ -1,6 +1,8 @@
 ## Conference Venue
 The conference will take place at the [Humanisten](https://www.gu.se/en/humanities) building, [Renströmsgatan 6](https://www.google.com/maps/dir/Korsv%C3%A4gen,+G%C3%B6teborg/Renstr%C3%B6msgatan+6,+412+55+G%C3%B6teborg/@57.6958231,11.9847919,18z/data=!3m1!4b1!4m14!4m13!1m5!1m1!1s0x464ff37619eecd8b:0x68de5ad154ecfae!2m2!1d11.9869245!2d57.6966813!1m5!1m1!1s0x464ff375e85ffea7:0x75a06ff6e070e6f4!2m2!1d11.9851008!2d57.6948769!3e2?entry=ttu), room J222.  The Humanisten building is located at Näckrosdammen, near the tram/bus stop Korsvägen. The facility is handicap-accessible and environmentally certified.
 
+## Online
+The conference will also be able to be attended online. We will have a zoom webinar active throughout where the talks can be viewed and where you can participate with your questions and contributions. [Zoom](https://gu-se.zoom.us/s/62758582849)
 
 ## Dinner Venue
 The conference dinner will take place on board M/S Eriksberg. We will take a 3-hour cruise in the Gothenburg archipelago. Most welcome on board! The boat will leave at 18:00 from [Stenpiren](https://maps.apple.com/?auid=15493928370620691955&address=Göteborg,Sweden&ll=57.7057857,11.9576227), which is 2.5 Km from the conference venue, accessible by walking or public transportation. Student volunteers will be available after the second keynote to assist with directions. If you think you will be experiencing symptoms of sea sickness, we recommnd you to have needed medication with you.
