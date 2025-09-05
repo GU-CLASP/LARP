@@ -40,11 +40,6 @@ title: Program
         <summary>Oral session 1</summary>
         <ul>
           <li>
-            10:45 <span class="authors">Ludovic Mompelat </span>
-            <a target="_blank">
-            Simple Morphology, Complex Models: A Benchmark Study and Error Analysis of POS Tagging for Martinican Creole
-          </li>
-          <li>
             11:10 <span class="authors">Ved Mathai, Janet B. Pierrehumbert </span>
             <a target="_blank">
             EventHopNLI: A Functional Dataset for Systematically Diagnosing Logical Failures in LLM Temporal Reasoning
@@ -58,6 +53,11 @@ title: Program
             12:00 <span class="authors">Dominik Künkele and Simon Dobnik </span>
             <a target="_blank">
             Learning to Refer: How Scene Complexity Affects Emergent Communication in Neural Agents
+          </li>
+          <li>
+           13:55 <span class="authors">Vladislav Maraev, Alexander Berman, Staffan Larsson </span>
+            <a target="_blank">
+            Combining Information State Update, Harel Statecharts and LLMs for controllable and flexible Conversational AI
           </li>
         </ul>
       </details>
@@ -79,15 +79,16 @@ title: Program
            13:30 <span class="authors">Giulia D'Agostino, Michiel van der Meer, Chris Reed </span>
             <a target="_blank">
             Extracting a Prototypical Argumentative Pattern in Financial Q&As
-          <li>
-           13:55 <span class="authors">Vladislav Maraev, Alexander Berman, Staffan Larsson </span>
-            <a target="_blank">
-            Combining Information State Update, Harel Statecharts and LLMs for controllable and flexible Conversational AI
-          </li>
+            </li>
           <li>
            14:20 <span class="authors">Dan Oneata, Desmond Elliott, Stella Frank </span>
             <a target="_blank" ref="https://aclanthology.org/2025.findings-acl.1240.pdf">
             Seeing What Tastes Good: Revisiting Multimodal Distributional Semantics in the Billion Parameter Era</a>
+          </li>
+          <li>
+            10:45 <span class="authors">Ludovic Mompelat </span>
+            <a target="_blank">
+            Simple Morphology, Complex Models: A Benchmark Study and Error Analysis of POS Tagging for Martinican Creole
           </li>
         </ul>
       </details>
