@@ -9,9 +9,11 @@ title: Program
 <a href="https://gu-se.zoom.us/j/69358483641?pwd=1kLT4adbcthYKrkevwHfEYhRvVWZTS.1" target="_blank">Zoom webinar</a>
 </p>
 
-<a href="https://aclanthology.org/volumes/2024.clasp-1/" target="_blank">Full proceedings</a>
-
 -->
+
+
+<a href="https://aclanthology.org/volumes/2025.clasp-main/" target="_blank">Proceedings</a>
+
 
 
 ## Day 1 -- Monday 8th September
