@@ -105,9 +105,9 @@ title: Program
     <td>Keynote 2: Dan Roth (session chair: Nikolai Ilinykh)</td>
   </tr>
   <tr>
-    <td class="time">17:00</td>
+    <td class="time">18:00</td>
     <td>
-      Social event (see [Dinner Venue](https://gu-clasp.github.io/LARP/venue.html))
+      Social event (see [Dinner Venue](https://gu-clasp.github.io/LARP/venue.html)); the boat will leave 18:00, so make sure to be at Stenpiren at 17:45.
     </td>
   </tr>
 </table>
