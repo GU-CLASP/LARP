@@ -39,7 +39,7 @@ title: Program
     <td class="time">10:45</td>
     <td>
       <details>
-        <summary>Oral session 1</summary>
+        <summary>Oral session 1 (session chair: Hyewon Jang)</summary>
         <ul>
           <li>
             10:45 <span class="authors">Ved Mathai, Janet B. Pierrehumbert </span>
