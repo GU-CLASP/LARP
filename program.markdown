@@ -107,7 +107,7 @@ title: Program
   <tr>
     <td class="time">18:00</td>
     <td>
-      Social event (see [Dinner Venue](https://gu-clasp.github.io/LARP/venue.html)); the boat will leave 18:00, so make sure to be at Stenpiren at 17:45.
+      Social event (see [Dinner Venue](https://gu-clasp.github.io/LARP/venue.html)); the boat will leave at 18:00, so make sure to be at Stenpiren (https://maps.app.goo.gl/9fH7nVuTyB96rvic9) at 17:45 at the latest.
     </td>
   </tr>
 </table>
