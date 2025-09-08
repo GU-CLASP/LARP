@@ -75,7 +75,7 @@ title: Program
     <td class="time">13:30</td>
     <td>
       <details>
-        <summary>Oral session 2</summary>
+        <summary>Oral session 2 (session chair: Bill Noble)</summary>
         <ul>
           <li>
            13:30 <span class="authors">Giulia D'Agostino, Michiel van der Meer, Chris Reed </span>
